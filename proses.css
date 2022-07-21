@@ -1,0 +1,66 @@
+.navbar{
+	height: 70px;
+	top: 0;
+	margin: 0;
+	display: flex;
+	border-bottom: 1px solid tomato; 
+}
+
+.logo{
+	display: flex;
+
+	flex: 1;
+}
+.logo :hover{
+	text-decoration: underline;
+
+}
+.logo p{
+	font-size: 25px;
+	color: tomato;
+}
+.menu{
+	flex: 1;
+}
+.menu ul{
+	display: flex;
+	list-style-type:  none;
+	float: right;
+}
+.menu li{
+	margin-right: 40px;
+    font-size: 25px;
+}
+.menu a{
+	text-decoration: none;
+	color: tomato;
+}
+.isi{
+	text-align: center;
+    font-size: 25px;
+	border-bottom: 1px solid tomato;
+}
+.isi2{
+    display: flex;
+}
+.isi2 p{
+    margin-top: 200px;
+    margin-left: 170px;
+}
+.p1{
+    margin-top: 100px;
+    margin-left: 100px;
+    width: 300px;
+    height: 350px;
+}
+.footer{
+    position: relative;
+    display: inline-block;
+    margin: 0;
+    height: auto;
+    width: 100%;
+    padding: 0;
+    color: white; 
+    text-align: center;
+    background-color: tomato;
+}

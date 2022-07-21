@@ -1,0 +1,15 @@
+
+
+    2022 - 07 - 21
+        Nama        : Amaylia Ananda
+        Alamat      : Yogyakarta
+        Pesanan     : Pasir
+        Jumlah Item : 2
+        Pembayaran  : Non Tunai
+
+    2022 - 07 - 21
+        Nama        : Amaylia Ananda
+        Alamat      : Yogyakarta
+        Pesanan     : Pasir
+        Jumlah Item : 2
+        Pembayaran  : Tunai

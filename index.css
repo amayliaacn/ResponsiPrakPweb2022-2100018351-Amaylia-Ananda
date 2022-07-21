@@ -1,0 +1,130 @@
+.navbar{
+	height: 70px;
+	top: 0;
+	margin: 0;
+	display: flex;
+	border-bottom: 1px solid tomato; 
+}
+
+.logo{
+	display: flex;
+
+	flex: 1;
+}
+.logo :hover{
+	text-decoration: underline;
+
+}
+.logo p{
+	font-size: 25px;
+	color: tomato;
+}
+.menu{
+	flex: 1;
+}
+.menu ul{
+	display: flex;
+	list-style-type:  none;
+	float: right;
+}
+.menu li{
+	margin-right: 40px;
+    font-size: 25px;
+}
+.menu a{
+	text-decoration: none;
+	color: tomato;
+}
+.isi{
+	text-align: center;
+    font-size: 25px;
+	border-bottom: 1px solid tomato;
+}
+.produk{
+	display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+	margin-top: 50px;
+	margin-left: 300px;
+}
+.produk .foto img{
+    width: 250px;
+    border-radius: 10px;
+}
+.p1{
+	border: 1px solid black;
+    margin:  10px;
+    text-align: center;
+    border-radius: 10px;
+}
+.p2{
+	border: 1px solid black;
+    margin:  10px;
+    text-align: center;
+    border-radius: 10px;
+}
+.p3{
+    height: 250px;
+    width: 200px;
+    margin-bottom: 100px;
+	border: 1px solid black;
+    margin:  10px;
+    text-align: center;
+    border-radius: 10px;
+}
+.p4{
+	border: 1px solid black;
+    margin:  10px;
+    text-align: center;
+    border-radius: 10px;
+}
+.p5{
+    height: 250px;
+	border: 1px solid black;
+    margin:  10px;
+    text-align: center;
+    border-radius: 10px;
+}
+.produkk2 a{
+    border: 1px solid teal;
+    padding: 10px;
+    color: white;
+    background: teal;
+    text-decoration: none;
+    border-radius: 10px;
+}
+.c1{
+    margin-left: 100px;
+    margin-bottom: 100px;
+    margin-top: 70px
+}
+.c2{
+    margin-left: 100px;
+    margin-bottom: 100px;
+    margin-top: 160px
+}
+.c3{
+    margin-left: 100px;
+    margin-bottom: 100px;
+    margin-top: 170px
+}
+.c4{
+    margin-left: 100px;
+    margin-bottom: 100px;
+    margin-top: 140px
+}
+.c5{
+    margin-left: 100px;
+    margin-bottom: 100px;
+    margin-top: 140px
+}
+.footer{
+    position: relative;
+    display: inline-block;
+    margin: 0;
+    height: auto;
+    width: 100%;
+    padding: 0;
+    color: white;
+    text-align: center;
+    background-color: tomato;
+}
